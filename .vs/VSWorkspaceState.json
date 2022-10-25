@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Fiorello-backend",
+    "\\Fiorello-backend\\EntityFrameworkProject",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Areas",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Areas\\AdminArea",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Areas\\AdminArea\\Views",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Areas\\AdminArea\\Views\\Category",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Areas\\AdminArea\\Views\\Employee",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Areas\\AdminArea\\Views\\Product",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Areas\\AdminArea\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Fiorello-backend\\EntityFrameworkProject\\Areas\\AdminArea\\Views\\Employee\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
